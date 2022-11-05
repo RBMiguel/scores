@@ -1,0 +1,74 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 80%;
+    margin: auto;
+}
+
+.reset{
+
+    display: flex;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+  
+}
+.match1 {
+
+    max-width: 40%;
+}
+
+.match2 {
+
+    max-width: 40%;
+}
+h3  {
+    
+
+    
+  
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+
+    
+    /* identical to box height, or 90% */
+    
+    text-align: center;
+    
+    color: #EEEEEE;
+}
+.scores {
+
+
+font-family: 'Cursed Timer ULiL';
+font-style: normal;
+font-weight: 400;
+font-size: 150px;
+
+align-items: center;
+background-color: black;
+
+text-align: center;
+color: #F94F6D;
+}
+button {
+    width: 85px;
+height: 35px;
+left: 82px;
+color: #9AABD8;
+border-radius: 2px;
+border-color: white;
+background:  #1B244A;
+padding: 5px;
+margin-left: 3px ;
+top: 500px;
+
+
+}
